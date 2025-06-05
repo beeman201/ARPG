@@ -1,0 +1,34 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bc5yp6i7wqu82"
+path="res://.godot/imported/RA_Graveyard_Animations.png-2cf9e28be8f8c55aa4dabb70e3f9739a.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://assets/Rogue Adventure World [Sprites]/Tilesets/RA_Graveyard_Animations.png"
+dest_files=["res://.godot/imported/RA_Graveyard_Animations.png-2cf9e28be8f8c55aa4dabb70e3f9739a.ctex"]
+
+[params]
+
+compress/mode=0
+compress/high_quality=false
+compress/lossy_quality=0.7
+compress/hdr_compression=1
+compress/normal_map=0
+compress/channel_pack=0
+mipmaps/generate=false
+mipmaps/limit=-1
+roughness/mode=0
+roughness/src_normal=""
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/normal_map_invert_y=false
+process/hdr_as_srgb=false
+process/hdr_clamp_exposure=false
+process/size_limit=0
+detect_3d/compress_to=1

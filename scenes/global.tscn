@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://xnrxijhkbtth"]
+
+[ext_resource type="Script" uid="uid://cidkjnsw3b4l6" path="res://global.gd" id="1_p3m5o"]
+[ext_resource type="PackedScene" uid="uid://bivlcdqfcy2pj" path="res://scenes/pet_test.tscn" id="3_ip6h8"]
+
+[node name="Global" type="Node2D"]
+script = ExtResource("1_p3m5o")
+player_scene = ExtResource("3_ip6h8")
+pet_scene = ExtResource("3_ip6h8")
